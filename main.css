@@ -1,0 +1,25 @@
+ /* rule set #1: Everything within the body tag will have a orange backround.*/
+ body {
+    background-color: orange;
+
+ .wrapper {
+    margin: 30px;
+ }
+
+ h3 {
+    text-align: center;
+ }
+
+ .nav {
+    position: static;
+    top: 250px;
+    right: 250px;
+    width: 250px;
+    border: 25px solid green;
+ }
+
+
+
+
+
+  
